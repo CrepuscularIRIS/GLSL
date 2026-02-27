@@ -1,4 +1,4 @@
-# BSL Shader 维度区分交接文档
+# BSL enhanced for 1.7.10 - 维度区分交接文档
 
 ## 概述
 
@@ -197,4 +197,3 @@ vec3 lightCol = lightColSqrt * lightColSqrt
 ## 交接时间
 
 2026-02-27
-

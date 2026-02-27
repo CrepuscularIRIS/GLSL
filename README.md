@@ -1,6 +1,6 @@
-# GLSL Shader Learning and Experiment Repository
+# BSL enhanced for 1.7.10
 
-This repository documents our hands-on GLSL shader learning process through practical integration experiments.
+This repository documents our hands-on GLSL shader learning process centered on **BSL enhanced for 1.7.10** through practical integration experiments.
 
 The project focuses on understanding shader architecture, adapting configurations, and validating visual behavior across multiple shader packs. It is intended for study, technical exploration, and reproducible experiments.
 
