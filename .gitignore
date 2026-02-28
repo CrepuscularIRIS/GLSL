@@ -1,1 +1,8 @@
-Railgun/
+# Ignore everything
+*
+
+# But not these
+!BSL/
+!README.md
+!images/
+!.gitignore
